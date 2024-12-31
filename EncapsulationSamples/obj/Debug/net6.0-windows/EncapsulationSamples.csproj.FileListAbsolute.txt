@@ -1,0 +1,17 @@
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\bin\Debug\net6.0-windows\EncapsulationSamples.exe
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\bin\Debug\net6.0-windows\EncapsulationSamples.deps.json
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\bin\Debug\net6.0-windows\EncapsulationSamples.runtimeconfig.json
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\bin\Debug\net6.0-windows\EncapsulationSamples.dll
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\bin\Debug\net6.0-windows\EncapsulationSamples.pdb
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\obj\Debug\net6.0-windows\EncapsulationSamples.Form1.resources
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\obj\Debug\net6.0-windows\EncapsulationSamples.csproj.GenerateResource.cache
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\obj\Debug\net6.0-windows\EncapsulationSamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\obj\Debug\net6.0-windows\EncapsulationSamples.AssemblyInfoInputs.cache
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\obj\Debug\net6.0-windows\EncapsulationSamples.AssemblyInfo.cs
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\obj\Debug\net6.0-windows\EncapsulationSamples.csproj.CoreCompileInputs.cache
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\obj\Debug\net6.0-windows\EncapsulationSamples.sourcelink.json
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\obj\Debug\net6.0-windows\EncapsulationSamples.dll
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\obj\Debug\net6.0-windows\refint\EncapsulationSamples.dll
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\obj\Debug\net6.0-windows\EncapsulationSamples.pdb
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\obj\Debug\net6.0-windows\EncapsulationSamples.genruntimeconfig.cache
+D:\dev\windows\src\repos\EncapsulationSamples\EncapsulationSamples\obj\Debug\net6.0-windows\ref\EncapsulationSamples.dll

@@ -28,12 +28,56 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            labelColorResult = new Label();
+            textBoxColorValue = new TextBox();
+            buttonSetColor = new Button();
+            SuspendLayout();
+            // 
+            // labelColorResult
+            // 
+            labelColorResult.AutoSize = true;
+            labelColorResult.Location = new Point(12, 9);
+            labelColorResult.Name = "labelColorResult";
+            labelColorResult.Size = new Size(60, 15);
+            labelColorResult.TabIndex = 0;
+            labelColorResult.Text = "設定した色";
+            // 
+            // textBoxColorValue
+            // 
+            textBoxColorValue.Location = new Point(78, 6);
+            textBoxColorValue.Name = "textBoxColorValue";
+            textBoxColorValue.Size = new Size(100, 23);
+            textBoxColorValue.TabIndex = 1;
+            textBoxColorValue.Text = "Black";
+            // 
+            // buttonSetColor
+            // 
+            buttonSetColor.Location = new Point(184, 5);
+            buttonSetColor.Name = "buttonSetColor";
+            buttonSetColor.Size = new Size(75, 23);
+            buttonSetColor.TabIndex = 2;
+            buttonSetColor.Text = "色を設定する";
+            buttonSetColor.UseVisualStyleBackColor = true;
+            buttonSetColor.Click += buttonSetColor_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(273, 37);
+            Controls.Add(buttonSetColor);
+            Controls.Add(textBoxColorValue);
+            Controls.Add(labelColorResult);
+            Name = "Form1";
+            Text = "文字で色設定";
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label labelColorResult;
+        private TextBox textBoxColorValue;
+        private Button buttonSetColor;
     }
 }
